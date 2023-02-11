@@ -1,0 +1,10 @@
+.navStyle {
+    color:indianred ;
+    font-size: 22px;
+
+}
+
+.navStyle:hover {
+    text-decoration: none;
+}
+

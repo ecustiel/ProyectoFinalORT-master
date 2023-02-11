@@ -1,0 +1,86 @@
+.panel-outside{
+    margin-left: 15%;
+    margin-top: 2%;
+    margin-right: 15%;
+    margin-bottom: 2%;
+}
+
+.custom-slider-publication{
+    width: 50%;
+    height: 50%;
+    float: left;
+    border-radius: 15px;
+    box-shadow: 2px 2px 2px 2px gray;
+}
+
+.header-derecha{
+    float: left;
+    width: 50%;
+    padding-left: 2%;
+}
+
+.midside-descripcion{
+    margin-top: 44%;
+    text-align: center;
+    justify-content: center;
+}
+
+.date-range-picker{
+    width: 100%;
+}
+
+.midside-descripcion  p {
+width: 80%;
+text-align: center;
+justify-content: center;
+margin: auto;
+}
+
+.under-description {
+    margin-top: 5%;
+    margin-bottom: 2%;
+    width: 100%;
+}
+
+.sec-reserva {
+    width: 50%;
+    float: left;
+}
+
+.sec-confort {
+    width: 25%;
+    float: left;
+}
+
+.sec-confort p {
+    margin: 0;
+}
+
+.sec-seguridad {
+    width: 25%;
+    float: left;
+}
+
+.sec-seguridad p {
+    margin: 0;
+}
+
+.sec-boton-reserva{
+    margin-top: 15%;
+    margin-right: 0px;
+    margin-bottom: 5%;
+    float: right;
+}
+
+.rs-btn-ghost.rs-btn {
+    padding: 7px 11px;
+    width: 300px;
+    color: #6B2737;
+    background-color: #E08E45;
+    border-color: #6B2737;
+}
+
+.rs-btn-ghost.rs-btn:hover{
+    color: #E08E45;
+    background-color: #6B2737;
+}

@@ -1,0 +1,12 @@
+@import "rsuite/dist/rsuite.css";
+
+.btnGroup {
+  position: absolute;
+  bottom: 0;
+  height: 40px;
+}
+
+.toFix {
+    height: 200px
+}
+

@@ -1,0 +1,24 @@
+.panel-perfil{
+    margin-left: 20%;
+    margin-top: 2%;
+    margin-right: 5%;
+    margin-bottom: 10%;
+    width: 60%;
+    
+}
+
+.profileContainer{
+    margin-left:30%;
+}
+
+.profileContainer Button{
+    color: #E08E45;
+    background-color: #6B2737;
+    border: none;
+    width: 100%;
+}
+
+.profileContainer:hover Button{
+    color: #6B2737;
+    background-color: #E08E45;
+}

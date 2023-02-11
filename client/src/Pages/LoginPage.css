@@ -1,0 +1,50 @@
+
+.globalLogin {
+    background-image: url("../Imagenes/fondoHome.jpg");
+}
+
+.login-form-2{
+    border-radius: 5px;
+    box-shadow: 0 19px 10px 0 rgba(0, 0, 0, 0.4), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+    padding: 5%;
+}
+.login-form-2 h3{
+    text-align: center;
+    color: #6B2737;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+
+.login-container form{
+    padding: 10%;
+}
+
+.btnSubmit
+{
+    width: 50%;
+    border-radius: 1rem;
+    padding: 1.5%;
+    border: none;
+    cursor: pointer;
+}
+.login-form-1 .btnSubmit{
+    color: #6B2737;
+    background-color: #E08E45;
+}
+
+.login-form-1 .btnSubmit:hover{
+    color: #E08E45;
+    background-color: #6B2737;
+}
+
+.login-form-2 .ForgetPwd{
+    color: #fff;
+    font-weight: 600;
+    text-decoration: none;
+}
+.login-form-1 .ForgetPwd{
+    color: #E08E45;
+    font-weight: 600;
+    text-decoration: none;
+}

@@ -1,0 +1,16 @@
+.panel-izquierda-estilos p{
+font-size: 14px;
+text-align: center;
+}
+
+.panel-izquierda-estilos Button{
+    color: #E08E45;
+    background-color: #6B2737;
+border: none;
+}
+
+.panel-izquierda-estilos:hover Button{
+    color: #6B2737;
+    background-color: #E08E45;
+border: none;
+}

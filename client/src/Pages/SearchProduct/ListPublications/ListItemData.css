@@ -1,0 +1,29 @@
+
+.custom-slider {
+    width: 90%;
+    border-radius: 15px;
+    height: 50%;
+    object-fit: cover; 
+}
+
+.listItem-wrap:hover {
+    cursor: pointer;
+}
+
+.listItem-wrap header{
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem 0;
+    align-items: center;
+}
+
+.listItem-wrap footer {
+    font-size: 0.8rem;
+    display: block;
+    align-items: left;
+    justify-content: space-between;
+  }
+
+.listItem-wrap span {
+    display: block;
+}
